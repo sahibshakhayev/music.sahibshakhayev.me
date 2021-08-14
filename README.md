@@ -1,7 +1,7 @@
 # music.sahibshakhayev.me
 # Web Music Player with Backend Playlist Load
 <br>
-<img src='https://github.com/sahibshakhayev/music.sahibshakhayev.me/raw/main/screenshots/1.JPG' alt='Screenshot' width='50%'>
+<img src='https://github.com/sahibshakhayev/music.sahibshakhayev.me/raw/main/screenshots/1.JPG' alt='Screenshot' width='50%'><img src= 'https://github.com/sahibshakhayev/music.sahibshakhayev.me/raw/main/screenshots/2.JPG' alt='Screenshot' width="48%">
 
 This is my first project. If you find errors or have a suggestion. I would be glad to receive an e-mail.<br>
 You can freely edit, copy, redistribute the code. 
