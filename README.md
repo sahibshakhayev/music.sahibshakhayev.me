@@ -11,7 +11,8 @@ The backend consists of <b>PHP</b> and <b>MySQL</b> as a database. <br>
  
 
 The following formats are supported for playback: <b>MP3</b>, <b>OGG</b>, <b>AAC</b> and <b>FLAC</b><br>
-Supported formats for cover image: <b>JPG,</b> <b>JPEG,</b> <b>PNG,</b> <b>BMP</b> and <b>GIF.</b>
+Supported formats for cover image: <b>JPG,</b> <b>JPEG,</b> <b>PNG,</b> <b>BMP</b> and <b>GIF.</b><br>
+Only <b>LRC</b> format is supported for lyrics.
 
 
 
