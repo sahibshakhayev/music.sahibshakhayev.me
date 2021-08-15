@@ -25,7 +25,10 @@ There is support for uploading songs.
 <ul>
  <li><b>Copy the contents of the www folder to the root folder of your web server.</b><br>
  If you are using Microsoft IIS and HTTPS you can also copy the web.config file. In this case, you must activate the URL Rewrite module and write your domain in the <i> add input = "{HTTP_REFERER}" pattern = "</i> section. <br>For example, in my case, <i> "add input =" {HTTP_REFERER} "pattern =" ^ https: //music.sahibshakhayev\.me/.*$ "negate =" true"</i> </li>
-
+ <li><b>Set You Title in "index.php", "/upload/login.php", "/upload/new-upload.php"</b><br>
+ Language Azerbaijani
+ 
+ </li>
 
 
 
