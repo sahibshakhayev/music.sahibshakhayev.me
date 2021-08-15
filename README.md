@@ -20,7 +20,12 @@ There is support for uploading songs.
 
 
 
-File not finished....
+
+<h2>Setup</h2>
+
+
+
+
 
 
 
