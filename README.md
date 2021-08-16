@@ -26,13 +26,26 @@ There is support for uploading songs.
  <li><b>Copy the contents of the www folder to the root folder of your web server.</b><br>
  If you are using Microsoft IIS and HTTPS you can also copy the web.config file. In this case, you must activate the URL Rewrite module and write your domain in the <i> add input = "{HTTP_REFERER}" pattern = "</i> section. <br>For example, in my case, <i> "add input =" {HTTP_REFERER} "pattern =" ^ https: //music.sahibshakhayev\.me/.*$ "negate =" true"</i> </li>
  <li><b>Set You Title in "index.php", "/upload/login.php", "/upload/new-upload.php"</b><br>
- Language Azerbaijani
+ Project in Azerbaijani
  </li>
- 
+ <li>
+ <b>Set up your MySQL database</b><br>
+ 1) Create a database<br> 
+ 2) Create database user if missing<br>
+ 3) Give All Privileges to the database user<br>
+ </li>
+ <li>
+  <b>Import tables from the "sql" folder (users.sql and songs.sql) into the database</b>
+ <li>
+ <b>Open the file "site_data/php/mysql.php" and enter the credentials for your MySQL database</b>
+ </li>
+</ul><br>
+
+If everything done  correctly you can listen to songs,co ntrol playback and see the lyrics of the song.
+
+<h2>How to upload a new song?</h2>
 
 
-
-</ul>
 
 
 
