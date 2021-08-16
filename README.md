@@ -60,11 +60,11 @@ If everything done  correctly you can listen to songs, control playback and see 
 <br>
   
   <h2>Demo:</h2>
-  <h3><a target="_blank" href="https://music.sahibshakhayev.me/">music.sahibshakhayev.me</a></h3>
+  <h3><a href="https://music.sahibshakhayev.me/" target="_blank">music.sahibshakhayev.me</a></h3>
   <br>
   <br>
   <h2>References:</h2>
-  <h3><a target="_blank" href="https://www.programmersought.com/article/46195426033/">https://www.programmersought.com/article/46195426033/</a></h3>
+  <h3><a href="https://www.programmersought.com/article/46195426033/" target="_blank">https://www.programmersought.com/article/46195426033/</a></h3>
   
 
 
