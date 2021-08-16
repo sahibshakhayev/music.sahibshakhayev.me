@@ -51,8 +51,21 @@ If everything done  correctly you can listen to songs, control playback and see 
  <li><b>Enter login and password</b><br>
  By default Login: username, Password: Password</li>
  <li><b>In the form that opens, enter the required data and click the submit button</b><br>
- After a successful operation, the track will appear in the playlist
-
+ After a successful operation, the track will appear in the playlist<br>
+  <br>
+  <br>
+  
+ <img src="https://github.com/sahibshakhayev/music.sahibshakhayev.me/raw/main/screenshots/3.JPG" alt="Upload Form" width="50%" />
+<br>
+<br>
+  
+  <h2>Demo:</h2>
+  <h3><a target="_blank" href="https://music.sahibshakhayev.me/">music.sahibshakhayev.me</a></h3>
+  <br>
+  <br>
+  <h2>References:</h2>
+  <h3><a target="_blank" href="https://www.programmersought.com/article/46195426033/">https://www.programmersought.com/article/46195426033/</a></h3>
+  
 
 
 
