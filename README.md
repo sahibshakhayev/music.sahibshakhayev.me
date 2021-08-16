@@ -41,9 +41,21 @@ There is support for uploading songs.
  </li>
 </ul><br>
 
-If everything done  correctly you can listen to songs,co ntrol playback and see the lyrics of the song.
+If everything done  correctly you can listen to songs, control playback and see the lyrics of the song.
 
 <h2>How to upload a new song?</h2>
+<ul>
+<li>
+<div><sup>Click on this icon: </sup> <img src="https://raw.githubusercontent.com/sahibshakhayev/music.sahibshakhayev.me/main/www/site_data/img/upload.svg" alt='uoload_icon' /></div>
+ </li>
+ <li><b>Enter login and password</b><br>
+ By default Login: username, Password: Password</li>
+ <li><b>In the form that opens, enter the required data and click the submit button</b><br>
+ After a successful operation, the track will appear in the playlist
+
+
+
+
 
 
 
